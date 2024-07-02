@@ -1,0 +1,14 @@
+C:\cSharp\projetos\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharp\projetos\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.AssemblyInfoInputs.cache
+C:\cSharp\projetos\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.AssemblyInfo.cs
+C:\cSharp\projetos\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.csproj.CoreCompileInputs.cache
+C:\cSharp\projetos\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.exe
+C:\cSharp\projetos\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.deps.json
+C:\cSharp\projetos\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.runtimeconfig.json
+C:\cSharp\projetos\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.dll
+C:\cSharp\projetos\JogoDaVelha\bin\Debug\net8.0\JogoDaVelha.pdb
+C:\cSharp\projetos\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.dll
+C:\cSharp\projetos\JogoDaVelha\obj\Debug\net8.0\refint\JogoDaVelha.dll
+C:\cSharp\projetos\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.pdb
+C:\cSharp\projetos\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.genruntimeconfig.cache
+C:\cSharp\projetos\JogoDaVelha\obj\Debug\net8.0\ref\JogoDaVelha.dll
